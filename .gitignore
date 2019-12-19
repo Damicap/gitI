@@ -1,0 +1,9 @@
+# Fichiers de sauvegarde créés par certains éditeurs
+# (L'idéal est de mettre ces motifs dans ~/.config/git/ignore)
+
+# Emacs
+*~
+\#*#
+
+# Vi
+.*.swp
