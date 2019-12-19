@@ -12,3 +12,5 @@ othermsg='Good bye'
 
 # Oups, cette fois-ci l'auteur a mis les mauvais guillemets.
 echo '$othermsg'
+
+#Bj
